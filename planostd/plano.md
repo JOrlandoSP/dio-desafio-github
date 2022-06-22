@@ -30,8 +30,8 @@
 ## Links das plataformas ou sites utilizados
 
 
-https://www.dio.me/
+[Plataforma DIO](https://www.dio.me/)
 
-https://www.freecodecamp.org/
+[Plataforma FreeCodeCamp](https://www.freecodecamp.org/)
 
-https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw
+[Canal BugsWriter](https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw)
