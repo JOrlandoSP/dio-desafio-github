@@ -28,3 +28,12 @@
 #### FreeCodeCamp - Fazer curso de Python
 
 #### BugsWriter - Linux e Shellscript
+
+## Links das plataformas ou sites utilizados
+
+
+[Plataforma DIO](https://www.dio.me/)
+
+[Plataforma FreeCodeCamp](https://www.freecodecamp.org/)
+
+[Canal BugsWriter](https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw)
