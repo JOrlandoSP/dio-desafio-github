@@ -1,5 +1,7 @@
 # Plan of Study
 
+#### Não só um plano de estudo, mas um plano de evolução pessoal
+
 💻 📖 🕛
 
 #### A ideia é descrever o conteudos estudados ou a serem estudados
