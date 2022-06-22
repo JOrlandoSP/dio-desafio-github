@@ -1,6 +1,6 @@
 # Plan of Study
 
-💻
+💻 📖 🕛
 
 #### A ideia é descrever o conteudos estudados ou a serem estudados
 
